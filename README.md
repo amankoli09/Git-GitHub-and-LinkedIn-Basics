@@ -24,7 +24,8 @@ It contains **simple theory explanations**, **commonly used Git commands**, and 
 🔹 Understand the basics of **Git** and **Version Control**  
 🔹 Learn commonly used **Git commands** with examples  
 🔹 Explore **GitHub features** like repositories, forks, and pull requests  
-🔹 Build a **professional LinkedIn profile** for career growth  
+🔹 Build a **professional LinkedIn profile** for career growth
+Learning GitHub Achievements 🚀
 
 ---
 
